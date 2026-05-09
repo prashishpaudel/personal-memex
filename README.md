@@ -87,8 +87,8 @@ Use the [Git](https://github.com/Vinzent03/obsidian-git) plugin by Vinzent.
 - Commit message: `vault backup: {{date}}`
 
 **Usage:**
-- `Cmd+P` → `Obsidian Git: Commit all changes` — stages and commits
-- `Cmd+P` → `Obsidian Git: Push` — pushes to GitHub
+- `Cmd+P` → `Git: Commit all changes` — stages and commits
+- `Cmd+P` → `Git: Push` — pushes to GitHub
 
 Or enable **auto backup** in plugin settings to commit+push on a timer without thinking about it.
 
