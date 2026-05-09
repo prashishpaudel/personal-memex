@@ -76,10 +76,10 @@ Obsidian's `.obsidian/` config folder will be created inside `content/` — it's
 
 ### Push to GitHub from Obsidian
 
-Use the [Obsidian Git](https://github.com/Vinzent03/obsidian-git) plugin.
+Use the [Git](https://github.com/Vinzent03/obsidian-git) plugin by Vinzent.
 
 **Install:**
-1. Obsidian → Settings → Community plugins → Browse → search **Obsidian Git** → Install → Enable
+1. Obsidian → Settings → Community plugins → Browse → search **Git** by Vinzent → Install → Enable
 
 **Configure** (Settings → Obsidian Git):
 - Auto pull interval: `10` min (optional)
