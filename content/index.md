@@ -7,3 +7,4 @@ title: Home
 ## Notes
 
 - [[Claude Code Tips]]
+- [[Git Cheatsheet]]
