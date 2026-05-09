@@ -1,3 +1,9 @@
+---
+title: Claude Code Tips
+date: 2026-05-09
+tags: [claude, tools]
+---
+
 # Claude Code Tips
 
 ## Session Management
