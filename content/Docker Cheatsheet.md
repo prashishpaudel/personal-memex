@@ -92,17 +92,26 @@ volumes:
 ### Compose Commands
 
 ```bash
+docker compose pull                 # pull latest images
+docker compose build                # rebuild images
 docker compose up                   # start all services (attached)
 docker compose up -d                # start detached
 docker compose down                 # stop and remove containers + network
 docker compose down -v              # also remove volumes
+
 docker compose ps                   # list services
 docker compose logs -f              # follow logs
 docker compose logs -f web          # logs of one service
 docker compose exec web bash        # shell into service
-docker compose build                # rebuild images
+
 docker compose restart web          # restart one service
-docker compose pull                 # pull latest images
+
+
+docker compose config --services     # just service names
+docker compose config --volumes      # just named volumes
+docker compose config --profiles     # just profiles
+docker compose config --images       # images each service uses
+docker compose config --quiet        # validate only, no output (good for CI)
 ```
 
 ### Common Patterns
