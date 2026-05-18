@@ -103,9 +103,7 @@ docker compose ps                   # list services
 docker compose logs -f              # follow logs
 docker compose logs -f web          # logs of one service
 docker compose exec web bash        # shell into service
-
 docker compose restart web          # restart one service
-
 
 docker compose config --services     # just service names
 docker compose config --volumes      # just named volumes
