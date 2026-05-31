@@ -66,6 +66,21 @@ Understand:
 * Who owns productive assets?
 * How does capital accumulate?
 
+## Franz Kafka
+
+**Read**
+
+* The Metamorphosis
+* The Trial
+* The Castle
+
+**Questions**
+
+* What does it feel like to live inside systems you cannot understand?
+* How do bureaucracy and law create anxiety, guilt, and obedience?
+* What happens when power becomes impersonal?
+* How do institutions alienate individuals from work, family, justice, and meaning?
+
 ## Max Weber
 
 **Read**
