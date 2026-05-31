@@ -253,12 +253,13 @@ Understand:
 2. Nietzsche
 3. Jung
 4. Marx
-5. Weber
-6. Smith
-7. Keynes
-8. Varoufakis
-9. Foucault
-10. Harari
+5. Kafka
+6. Weber
+7. Smith
+8. Keynes
+9. Varoufakis
+10. Foucault
+11. Harari
 
 ---
 
