@@ -6,6 +6,7 @@ title: Home
 
 ## Notes
 
+- [[Great Thinkers]]
 - [[Claude Code Tips]]
 - [[Git Cheatsheet]]
 - [[Linux Cheatsheet]]
